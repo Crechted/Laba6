@@ -1,0 +1,139 @@
+{
+  "organizations": [
+    {
+      "id": 3102450237761520966,
+      "name": "Organization1",
+      "coordinates": {
+        "x": 412,
+        "y": -123
+      },
+      "creationDate": {
+        "date": {
+          "year": 2020,
+          "month": 4,
+          "day": 9
+        },
+        "time": {
+          "hour": 7,
+          "minute": 1,
+          "second": 13,
+          "nano": 650997400
+        }
+      },
+      "annualTurnover": 131.0,
+      "employeesCount": 423,
+      "type": "COMMERCIAL",
+      "officialAddress": {
+        "zipCode": "Organization2"
+      }
+    },
+    {
+      "id": 4969891929450128787,
+      "name": "Organization2",
+      "coordinates": {
+        "x": -421,
+        "y": 24
+      },
+      "creationDate": {
+        "date": {
+          "year": 2020,
+          "month": 4,
+          "day": 9
+        },
+        "time": {
+          "hour": 7,
+          "minute": 1,
+          "second": 44,
+          "nano": 30706300
+        }
+      },
+      "annualTurnover": 143.0,
+      "employeesCount": 1234,
+      "type": "TRUST",
+      "officialAddress": {
+        "zipCode": "Home, 4"
+      }
+    },
+    {
+      "id": 5266936837858065917,
+      "name": "Organization3",
+      "coordinates": {
+        "x": 51234,
+        "y": -1523
+      },
+      "creationDate": {
+        "date": {
+          "year": 2020,
+          "month": 4,
+          "day": 9
+        },
+        "time": {
+          "hour": 7,
+          "minute": 2,
+          "second": 6,
+          "nano": 475012100
+        }
+      },
+      "annualTurnover": 4123.0,
+      "employeesCount": 64325,
+      "type": "COMMERCIAL",
+      "officialAddress": {
+        "zipCode": "Home,95"
+      }
+    },
+    {
+      "id": 1255176331213579340,
+      "name": "Organization4",
+      "coordinates": {
+        "x": -903,
+        "y": -41
+      },
+      "creationDate": {
+        "date": {
+          "year": 2020,
+          "month": 4,
+          "day": 9
+        },
+        "time": {
+          "hour": 7,
+          "minute": 3,
+          "second": 12,
+          "nano": 538075800
+        }
+      },
+      "annualTurnover": 4123.0,
+      "employeesCount": 512,
+      "type": "PUBLIC",
+      "officialAddress": {
+        "zipCode": "Home, 15"
+      }
+    },
+    {
+      "id": 7555901441341825485,
+      "name": "Organization5",
+      "coordinates": {
+        "x": 26354,
+        "y": -514
+      },
+      "creationDate": {
+        "date": {
+          "year": 2020,
+          "month": 4,
+          "day": 9
+        },
+        "time": {
+          "hour": 7,
+          "minute": 3,
+          "second": 33,
+          "nano": 637517200
+        }
+      },
+      "annualTurnover": 52.0,
+      "employeesCount": 2436,
+      "type": "TRUST",
+      "officialAddress": {
+        "zipCode": "Home, 4221"
+      }
+    }
+  ]
+}
